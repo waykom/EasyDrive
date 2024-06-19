@@ -1,0 +1,193 @@
+{
+  "status": "success",
+  "code": 200,
+  "info": "请求成功",
+  "data": {
+    "totalCount": 19,
+    "pageSize": 15,
+    "pageNo": 1,
+    "pageTotal": 2,
+    "list": [
+      {
+        "fileId": "KWBUWQPJjj",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "111",
+        "fileCover": null,
+        "lastUpdateTime": "2023-09-01 18:38:09",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "lqCaH4CU2C",
+        "filePid": "0",
+        "fileSize": 92012,
+        "fileName": "(秋)韦鸿浪.pdf",
+        "fileCover": null,
+        "lastUpdateTime": "2023-09-01 18:31:38",
+        "folderType": 0,
+        "fileCategory": 4,
+        "fileType": 4,
+        "status": 2
+      },
+      {
+        "fileId": "Sy68hOzsDD",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "15",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:06:39",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "keMdQfzXnC",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "14",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:06:37",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "Hic5DWODF8",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "13",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:06:36",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "zPYz8pdXrU",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "12",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:06:34",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "MFVrbNaOd1",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "11",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:06:32",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "Q84DQ0iEVn",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "10",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:06:30",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "8ey3xaYSYG",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "9",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:02:26",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "dkDRjtG3c8",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "8",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:02:23",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "GCkI5gxaLW",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "7",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:02:21",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "LaEZs6oep3",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "6",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:02:19",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "4d6zlVMDA0",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "5",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:02:18",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "JD6xvUZTYl",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "4",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:02:16",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      },
+      {
+        "fileId": "F1SOYtgZ9O",
+        "filePid": "0",
+        "fileSize": null,
+        "fileName": "3",
+        "fileCover": null,
+        "lastUpdateTime": "2023-08-24 16:02:14",
+        "folderType": 1,
+        "fileCategory": null,
+        "fileType": null,
+        "status": 2
+      }
+    ]
+  }
+}
